@@ -3,8 +3,8 @@
 Less scientifically written post about this in the German forum I developed this for:
 https://www.hardwareluxx.de/community/threads/vramhog-software-zum-finden-des-vram-limits.1277261/
 
-![alt text](https://github.com/Drarra/DRASP/blob/master/Screenshots/NoHog.png)
-![alt text](https://github.com/Drarra/DRASP/blob/master/Screenshots/4GbHog.png)
+![alt text](https://github.com/Dragolex/VRamHog/blob/master/Screenshots/NoHog.png)
+![alt text](https://github.com/Dragolex/VRamHog/blob/master/Screenshots/4GbHog.png)
 
 # Purpose
 
