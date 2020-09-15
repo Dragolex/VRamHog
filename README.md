@@ -3,6 +3,9 @@
 Less scientifically written post about this in the German forum I developed this for:
 https://www.hardwareluxx.de/community/threads/vramhog-software-zum-finden-des-vram-limits.1277261/
 
+![alt text](https://github.com/Drarra/DRASP/blob/master/Screenshots/NoHog.png)
+![alt text](https://github.com/Drarra/DRASP/blob/master/Screenshots/4GbHog.png)
+
 # Purpose
 
 In many computer hardware forums, a recurring theme is the question, **how much video memory (VRam) does software and especially games truly need?**
