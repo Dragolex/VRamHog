@@ -27,7 +27,7 @@ This is not really something intended by the GPU manufacturers and is not direct
 
 Having them actually render, yet greatly scaled down has the effect that the GPU cannot ommit the textures in any way and yet there is hardly any GPU computation load (which would benchmarks) because only a handful of pixels need to be rendered.
 
-# Where to downlaod a pre-built version
+# Where to download a pre-built version
 Ready for Windows: https://www.dropbox.com/s/6tz6qyhicpue6cz/VRamHog_v2.zip?dl=0
 Note: Unpack before running!
 
